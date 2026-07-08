@@ -1,0 +1,12 @@
+# KiCad temporary and backup files
+*.bak
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*-backups/
+_autosave-*
+
+# Manufacturing outputs (optional)
+*.gbr
+*.drl
+*.pdf.history/
+*.lck
