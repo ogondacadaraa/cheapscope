@@ -651,9 +651,19 @@
         "filename": "fpga.kicad_sch",
         "name": "FPGA",
         "uuid": "55194d38-3d4f-432f-aaa7-8856d1ede6e4"
+      },
+      {
+        "filename": "power.kicad_sch",
+        "name": "POWER",
+        "uuid": "cbc6c31c-163b-49b0-8fdc-c1e892e0d879"
+      },
+      {
+        "filename": "ram.kicad_sch",
+        "name": "RAM",
+        "uuid": "d2f6446c-95c0-46da-8162-48b4ff32e1a4"
       }
     ],
-    "used_designators": "U1-5,C1-18,R1-40,#PWR1-26,TV1-2,K1-6,RF1-2",
+    "used_designators": "L1-3,U1-7,C1-27,R1-49,#PWR1-33,TV1-2,K1-6,RF1-2",
     "variants": []
   },
   "sheets": [
@@ -664,6 +674,14 @@
     [
       "55194d38-3d4f-432f-aaa7-8856d1ede6e4",
       "FPGA"
+    ],
+    [
+      "cbc6c31c-163b-49b0-8fdc-c1e892e0d879",
+      "POWER"
+    ],
+    [
+      "d2f6446c-95c0-46da-8162-48b4ff32e1a4",
+      "RAM"
     ]
   ],
   "text_variables": {},
