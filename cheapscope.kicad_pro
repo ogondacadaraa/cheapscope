@@ -646,15 +646,24 @@
         "filename": "cheapscope.kicad_sch",
         "name": "cheapscope",
         "uuid": "d4f4c2a0-e11a-49ed-8ef8-6df396dfa688"
+      },
+      {
+        "filename": "fpga.kicad_sch",
+        "name": "FPGA",
+        "uuid": "55194d38-3d4f-432f-aaa7-8856d1ede6e4"
       }
     ],
-    "used_designators": "U1-2,C1-9,R1-20,#PWR1-13,TV1,K1-3,RF1",
+    "used_designators": "U1-5,C1-18,R1-40,#PWR1-26,TV1-2,K1-6,RF1-2",
     "variants": []
   },
   "sheets": [
     [
       "d4f4c2a0-e11a-49ed-8ef8-6df396dfa688",
       "cheapscope"
+    ],
+    [
+      "55194d38-3d4f-432f-aaa7-8856d1ede6e4",
+      "FPGA"
     ]
   ],
   "text_variables": {},
