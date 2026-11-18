@@ -2,4 +2,5 @@
 	(version 7)
 	(lib (name "EasyEDA") (type "KiCad") (uri "${KIPRJMOD}/EasyEDA.pretty") (options "") (descr ""))
 	(lib (name "ProLib_pcs_2026-08-02") (type "EasyEDA / JLCEDA Pro") (uri "/home/giorgi/Desktop/ProLib_pcs_2026-08-02.elibz") (options "") (descr ""))
+	(lib (name "easyeda2kicad") (type "KiCad") (uri "/home/giorgi/Documents/Kicad/easyeda2kicad/easyeda2kicad.pretty") (options "") (descr ""))
 )

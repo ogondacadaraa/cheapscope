@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "tang20k_parts") (type "KiCad") (uri "${KIPRJMOD}/lib/tang20k_parts.kicad_sym") (options "") (descr "Tang20K devkit parts: LCSC/EasyEDA imports, GW2A, K4B1G1646I, SODIMM edge"))
+)
